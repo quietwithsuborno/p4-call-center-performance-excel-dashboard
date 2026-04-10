@@ -35,7 +35,9 @@ This analysis focuses on:
 
 ### 👤 Representative R01
 
-![R01 Dashboard](images/r01.png)
+<p align="center">
+  <img src="images/ro1.png" alt="R01 Dashboard" width="800">
+</p>
 
 #### 📊 Key Insights
 - Specializes in weekend operations, with peak activity on Saturdays and Sundays  
@@ -49,7 +51,9 @@ This analysis focuses on:
 
 ### 👤 Representative R02
 
-![R02 Dashboard](images/r02.png)
+<p align="center">
+  <img src="images/r02.png" alt="R02 Dashboard" width="800">
+</p>
 
 #### 📊 Key Insights
 - Highest call volume (218 calls), acting as the primary workload handler  
@@ -63,7 +67,9 @@ This analysis focuses on:
 
 ### 👤 Representative R03
 
-![R03 Dashboard](images/r03.png)
+<p align="center">
+  <img src="images/r03.png" alt="R03 Dashboard" width="800">
+</p>
 
 #### 📊 Key Insights
 - Highest revenue generator ($20.8k) with strong efficiency (~$100.8 per call)  
@@ -77,7 +83,9 @@ This analysis focuses on:
 
 ### 👤 Representative R04
 
-![R04 Dashboard](images/r04.png)
+<p align="center">
+  <img src="images/r04.png" alt="R04 Dashboard" width="800">
+</p>
 
 #### 📊 Key Insights
 - Lowest call volume (186 calls) and revenue ($16.7k) but handles longer, complex calls  
@@ -91,7 +99,9 @@ This analysis focuses on:
 
 ### 👤 Representative R05
 
-![R05 Dashboard](images/r05.png)
+<p align="center">
+  <img src="images/r05.png" alt="R05 Dashboard" width="800">
+</p>
 
 #### 📊 Key Insights
 - Balanced performer with 200 calls and $20.1k revenue  
