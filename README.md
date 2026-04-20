@@ -21,10 +21,7 @@ This analysis focuses on:
 
 ## 🧰 Tools & Skills Used
 
-- Microsoft Excel  
-- Data Modeling (Excel Data Model)  
-- Power Pivot  
-- DAX (Data Analysis Expressions)  
+- Microsoft Excel   
 - Pivot Tables & Pivot Charts  
 - Slicers for interactivity  
 - Conditional Formatting
