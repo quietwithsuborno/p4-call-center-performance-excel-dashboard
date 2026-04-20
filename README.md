@@ -68,7 +68,7 @@ This analysis focuses on:
 ### 👤 Representative R03
 
 <p align="center">
-  <img src="images/r03.png" alt="R03 Dashboard" width="800">
+  <img src="images/r03.PNG" alt="R03 Dashboard" width="800">
 </p>
 
 #### 📊 Key Insights
@@ -84,7 +84,7 @@ This analysis focuses on:
 ### 👤 Representative R04
 
 <p align="center">
-  <img src="images/r04.png" alt="R04 Dashboard" width="800">
+  <img src="images/r04.PNG" alt="R04 Dashboard" width="800">
 </p>
 
 #### 📊 Key Insights
@@ -100,7 +100,7 @@ This analysis focuses on:
 ### 👤 Representative R05
 
 <p align="center">
-  <img src="images/r05.png" alt="R05 Dashboard" width="800">
+  <img src="images/r05.PNG" alt="R05 Dashboard" width="800">
 </p>
 
 #### 📊 Key Insights
@@ -167,9 +167,9 @@ This analysis focuses on:
  ├── 📁 images/  
  │    ├── r01.png  
  │    ├── r02.png  
- │    ├── r03.png  
- │    ├── r04.png  
- │    └── r05.png  
+ │    ├── r03.PNG  
+ │    ├── r04.PNG  
+ │    └── r05.PNG  
  └── 📄 README.md  
 
  ---
