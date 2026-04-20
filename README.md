@@ -36,7 +36,7 @@ This analysis focuses on:
 ### 👤 Representative R01
 
 <p align="center">
-  <img src="images/ro1.png" alt="R01 Dashboard" width="800">
+  <img src="images/r01.png" alt="R01 Dashboard" width="800">
 </p>
 
 #### 📊 Key Insights
